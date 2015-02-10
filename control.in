@@ -3,7 +3,7 @@ Section: python
 Priority: optional
 Maintainer: Matthias Klose <doko@debian.org>
 Build-Depends: debhelper (>= 5), @bd_dpkgdev@
-  gcc (>= 4:4.9.2),
+  gcc (>= 4:4.6.3),
   quilt, autoconf, autotools-dev,
   lsb-release, sharutils,
   libreadline-dev, libtinfo-dev, libncursesw5-dev (>= 5.3), @bd_gcc@

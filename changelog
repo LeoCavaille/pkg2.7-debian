@@ -1,3 +1,9 @@
+python2.7 (2.7.9-1~bpoprecise+1) precise; urgency=low
+
+  * Backport for precise
+
+ -- Léo Cavaillé <leo@cavaille.net>  Fri, 06 Feb 2015 05:37:17 +0000
+
 python2.7 (2.7.9-1) unstable; urgency=medium
 
   * Python 2.7.9 release.

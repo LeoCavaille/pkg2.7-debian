@@ -1,0 +1,14 @@
+Index: python2.7-2.7.9/Doc/conf.py
+===================================================================
+--- python2.7-2.7.9.orig/Doc/conf.py	2014-12-10 15:59:24.000000000 +0000
++++ python2.7-2.7.9/Doc/conf.py	2015-02-09 18:13:26.779683199 +0000
+@@ -38,9 +38,6 @@
+     'library/xml.etree.rst',
+ ]
+ 
+-# Require Sphinx 1.2 for build.
+-needs_sphinx = '1.2'
+-
+ 
+ # Options for HTML output
+ # -----------------------

@@ -64,3 +64,4 @@ enable-sqlite-loadext.diff
 installed-testsuite.diff
 ensurepip-wheels.diff
 ensurepip-disabled.diff
+sphinx1.2_notneeded.diff
