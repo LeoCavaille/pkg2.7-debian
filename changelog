@@ -1,3 +1,9 @@
+python2.7 (2.7.9-1~bpotrusty+1) trusty; urgency=low
+
+  * Backport for trusty
+
+ -- Léo Cavaillé <leo@cavaille.net>  Tue, 10 Feb 2015 05:37:17 +0000
+
 python2.7 (2.7.9-1) unstable; urgency=medium
 
   * Python 2.7.9 release.
